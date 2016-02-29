@@ -1,5 +1,5 @@
 {
-  "name": "css-color-names",
+  "name": "colors.json",
   "description": "CSS color names JSON.",
   "main": "colors.json",
   "authors": [
@@ -11,7 +11,7 @@
     "colors",
     "name"
   ],
-  "homepage": "https://github.com/corysimmons/css-color-names",
+  "homepage": "https://github.com/corysimmons/colors.json",
   "moduleType": [],
   "ignore": [
     "**/.*",

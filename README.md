@@ -1,3 +1,3 @@
-# css-color-names
+# colors.json
 
 CSS color names JSON.
